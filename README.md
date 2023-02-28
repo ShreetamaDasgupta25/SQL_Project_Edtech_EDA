@@ -46,8 +46,7 @@ To present the insights along with the visuals
 1. Cleaning the data   
 i. Removed the irrelevant data or the outliers in the "watched_percentage" and "age" columns.
 
-ii.Treated missing values in one of the the tables. Replaced the blank values with the text "NA" in MS Excel before importing the data to SQL. Replaced the text "NA" with null values in SQL.
-
+ii.Treated missing values in one of the the tables. 
 
 
 2. Made the relevant business questions to get the useful insights.
