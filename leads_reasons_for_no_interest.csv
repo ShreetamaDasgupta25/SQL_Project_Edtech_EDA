@@ -1,0 +1,295 @@
+lead_id,reasons_for_not_interested_in_demo,reasons_for_not_interested_to_consider,reasons_for_not_interested_to_convert
+USR1001,No time for student,NA,NA
+USR1003,NA,No time for student,NA
+USR1004,NA,Wants offline classes,NA
+USR1005,NA,Can't afford,NA
+USR1006,NA,Student not interested in domain,NA
+USR1008,NA,Will join in final year,NA
+USR1009,NA,Student not interested in domain,NA
+USR1010,NA,Will join in final year,NA
+USR1014,NA,Wants offline classes,NA
+USR1015,NA,Wants offline classes,NA
+USR1016,NA,Can't afford,NA
+USR1018,NA,Can't afford,NA
+USR1019,NA,Can't afford,NA
+USR1020,NA,Wants offline classes,NA
+USR1021,NA,Student not interested in domain,NA
+USR1024,NA,Can't afford,NA
+USR1026,NA,No time for student,NA
+USR1027,NA,NA,Can't afford
+USR1028,NA,Wants offline classes,NA
+USR1029,NA,Can't afford,NA
+USR1030,NA,Student not interested in domain,NA
+USR1034,NA,Can't afford,NA
+USR1035,NA,No time for student,NA
+USR1036,NA,Student not interested in domain,NA
+USR1038,NA,Can't afford,NA
+USR1039,NA,Can't afford,NA
+USR1040,NA,Wants offline classes,NA
+USR1041,NA,Can't afford,NA
+USR1043,NA,Wants offline classes,NA
+USR1044,NA,Can't afford,NA
+USR1045,NA,Can't afford,NA
+USR1046,NA,Can't afford,NA
+USR1048,Student not interested in domain,NA,NA
+USR1049,No time for student,NA,NA
+USR1050,NA,Can't afford,NA
+USR1054,Wants offline classes,NA,NA
+USR1055,NA,Wants offline classes,NA
+USR1056,Can't afford,NA,NA
+USR1058,NA,Wants offline classes,NA
+USR1059,Student not interested in domain,NA,NA
+USR1060,No time for student,NA,NA
+USR1061,Wants offline classes,NA,NA
+USR1064,Can't afford,NA,NA
+USR1065,NA,NA,Can't afford
+USR1066,Student not interested in domain,NA,NA
+USR1067,NA,NA,Can't afford
+USR1068,No time for student,NA,NA
+USR1069,Can't afford,NA,NA
+USR1070,NA,Can't afford,NA
+USR1071,NA,NA,Can't afford
+USR1074,Wants offline classes,NA,NA
+USR1075,NA,Student not interested in domain,NA
+USR1076,Wants offline classes,NA,NA
+USR1077,NA,NA,Can't afford
+USR1078,NA,Can't afford,NA
+USR1079,Wants offline classes,NA,NA
+USR1080,Wants offline classes,NA,NA
+USR1081,Wants offline classes,NA,NA
+USR1082,NA,NA,Will join in final year
+USR1083,NA,Wants offline classes,NA
+USR1084,Can't afford,NA,NA
+USR1085,Student not interested in domain,NA,NA
+USR1086,No time for student,NA,NA
+USR1087,NA,NA,Will join in final year
+USR1088,Wants offline classes,NA,NA
+USR1089,Student not interested in domain,NA,NA
+USR1090,NA,Wants offline classes,NA
+USR1091,NA,NA,Will join in final year
+USR1094,Wants offline classes,NA,NA
+USR1095,NA,Can't afford,NA
+USR1096,No time for student,NA,NA
+USR1097,NA,NA,Will join in final year
+USR1098,NA,Student not interested in domain,NA
+USR1099,Wants offline classes,NA,NA
+USR1100,Can't afford,NA,NA
+USR1101,Student not interested in domain,NA,NA
+USR1104,No time for student,NA,NA
+USR1105,NA,NA,Will join in final year
+USR1106,Wants offline classes,NA,NA
+USR1107,NA,NA,Will join in final year
+USR1108,Can't afford,NA,NA
+USR1109,Student not interested in domain,NA,NA
+USR1110,NA,No time for student,NA
+USR1111,NA,NA,Will join in final year
+USR1114,Wants offline classes,NA,NA
+USR1115,NA,Can't afford,NA
+USR1117,NA,NA,No time for student
+USR1118,NA,Wants offline classes,NA
+USR1119,Can't afford,NA,NA
+USR1120,Wants offline classes,NA,NA
+USR1121,No time for student,NA,NA
+USR1122,NA,NA,No time for student
+USR1123,NA,Can't afford,NA
+USR1124,Can't afford,NA,NA
+USR1125,Can't afford,NA,NA
+USR1126,Student not interested in domain,NA,NA
+USR1127,NA,NA,No time for student
+USR1128,No time for student,NA,NA
+USR1129,Can't afford,NA,NA
+USR1130,NA,Student not interested in domain,NA
+USR1131,NA,NA,No time for student
+USR1134,Wants offline classes,NA,NA
+USR1135,NA,No time for student,NA
+USR1136,Can't afford,NA,NA
+USR1137,NA,NA,No time for student
+USR1138,NA,Wants offline classes,NA
+USR1139,Can't afford,NA,NA
+USR1140,Student not interested in domain,NA,NA
+USR1141,Can't afford,NA,NA
+USR1144,No time for student,NA,NA
+USR1145,NA,NA,Can't afford
+USR1146,Can't afford,NA,NA
+USR1147,NA,NA,Can't afford
+USR1148,Wants offline classes,NA,NA
+USR1149,Can't afford,NA,NA
+USR1150,NA,Can't afford,NA
+USR1151,NA,NA,Can't afford
+USR1154,Student not interested in domain,NA,NA
+USR1155,NA,Wants offline classes,NA
+USR1156,No time for student,NA,NA
+USR1157,NA,NA,Can't afford
+USR1158,NA,Wants offline classes,NA
+USR1159,Student not interested in domain,NA,NA
+USR1160,No time for student,NA,NA
+USR1161,Wants offline classes,NA,NA
+USR1162,NA,NA,Can't afford
+USR1163,NA,Can't afford,NA
+USR1164,Can't afford,NA,NA
+USR1165,Can't afford,NA,NA
+USR1166,Student not interested in domain,NA,NA
+USR1167,NA,NA,Can't afford
+USR1168,No time for student,NA,NA
+USR1169,Can't afford,NA,NA
+USR1170,NA,Student not interested in domain,NA
+USR1171,NA,NA,Can't afford
+USR1174,Wants offline classes,NA,NA
+USR1175,NA,Wants offline classes,NA
+USR1176,Wants offline classes,NA,NA
+USR1177,NA,NA,Can't afford
+USR1178,NA,Can't afford,NA
+USR1179,Wants offline classes,NA,NA
+USR1180,Wants offline classes,NA,NA
+USR1181,Wants offline classes,NA,NA
+USR1184,Can't afford,NA,NA
+USR1185,NA,NA,Student not interested in domain
+USR1186,No time for student,NA,NA
+USR1187,NA,NA,Student not interested in domain
+USR1188,Wants offline classes,NA,NA
+USR1189,Student not interested in domain,NA,NA
+USR1190,NA,Can't afford,NA
+USR1191,NA,NA,Student not interested in domain
+USR1194,Wants offline classes,NA,NA
+USR1195,NA,Can't afford,NA
+USR1196,No time for student,NA,NA
+USR1197,NA,NA,Student not interested in domain
+USR1198,NA,Can't afford,NA
+USR1199,Wants offline classes,NA,NA
+USR1200,Can't afford,NA,NA
+USR1201,Student not interested in domain,NA,NA
+USR1202,NA,NA,Student not interested in domain
+USR1203,NA,Student not interested in domain,NA
+USR1204,Wants offline classes,NA,NA
+USR1205,Can't afford,NA,NA
+USR1206,Student not interested in domain,NA,NA
+USR1207,NA,NA,Student not interested in domain
+USR1208,No time for student,NA,NA
+USR1209,Wants offline classes,NA,NA
+USR1210,NA,Student not interested in domain,NA
+USR1211,NA,NA,Student not interested in domain
+USR1214,Can't afford,NA,NA
+USR1215,NA,Can't afford,NA
+USR1216,Can't afford,NA,NA
+USR1217,NA,NA,Student not interested in domain
+USR1218,NA,Wants offline classes,NA
+USR1219,Wants offline classes,NA,NA
+USR1220,Can't afford,NA,NA
+USR1221,Student not interested in domain,NA,NA
+USR1224,Can't afford,NA,NA
+USR1225,NA,NA,Can't afford
+USR1226,No time for student,NA,NA
+USR1227,NA,NA,Can't afford
+USR1228,Student not interested in domain,NA,NA
+USR1229,Can't afford,NA,NA
+USR1230,NA,Can't afford,NA
+USR1231,NA,NA,Can't afford
+USR1234,No time for student,NA,NA
+USR1235,NA,Student not interested in domain,NA
+USR1236,Wants offline classes,NA,NA
+USR1237,NA,NA,Can't afford
+USR1238,NA,Can't afford,NA
+USR1239,Can't afford,NA,NA
+USR1240,Can't afford,NA,NA
+USR1241,Can't afford,NA,NA
+USR1242,NA,NA,Can't afford
+USR1243,NA,Can't afford,NA
+USR1244,Student not interested in domain,NA,NA
+USR1245,Can't afford,NA,NA
+USR1246,Can't afford,NA,NA
+USR1247,NA,NA,Can't afford
+USR1248,Wants offline classes,NA,NA
+USR1249,Can't afford,NA,NA
+USR1250,NA,Can't afford,NA
+USR1251,NA,NA,Student not interested in domain
+USR1254,Student not interested in domain,NA,NA
+USR1255,NA,Wants offline classes,NA
+USR1256,No time for student,NA,NA
+USR1257,NA,NA,Student not interested in domain
+USR1258,NA,Wants offline classes,NA
+USR1259,Wants offline classes,NA,NA
+USR1260,Can't afford,NA,NA
+USR1261,Student not interested in domain,NA,NA
+USR1264,Wants offline classes,NA,NA
+USR1265,NA,NA,Wants offline classes
+USR1266,No time for student,NA,NA
+USR1267,NA,NA,Wants offline classes
+USR1268,Wants offline classes,NA,NA
+USR1269,Wants offline classes,NA,NA
+USR1270,NA,Can't afford,NA
+USR1271,NA,NA,Wants offline classes
+USR1274,Wants offline classes,NA,NA
+USR1275,NA,Student not interested in domain,NA
+USR1277,NA,NA,Wants offline classes
+USR1278,NA,Wants offline classes,NA
+USR1279,Can't afford,NA,NA
+USR1280,Wants offline classes,NA,NA
+USR1281,Wants offline classes,NA,NA
+USR1282,NA,NA,Wants offline classes
+USR1283,NA,No time for student,NA
+USR1284,Student not interested in domain,NA,NA
+USR1285,No time for student,NA,NA
+USR1286,Wants offline classes,NA,NA
+USR1287,NA,NA,Wants offline classes
+USR1288,Wants offline classes,NA,NA
+USR1289,Can't afford,NA,NA
+USR1290,NA,Wants offline classes,NA
+USR1291,NA,NA,Wants offline classes
+USR1294,Wants offline classes,NA,NA
+USR1295,NA,Wants offline classes,NA
+USR1296,Student not interested in domain,NA,NA
+USR1298,NA,Can't afford,NA
+USR1299,No time for student,NA,NA
+USR1300,Student not interested in domain,NA,NA
+USR1301,No time for student,NA,NA
+USR1304,Wants offline classes,NA,NA
+USR1305,NA,NA,Wants offline classes
+USR1306,Student not interested in domain,NA,NA
+USR1308,Wants offline classes,NA,NA
+USR1309,Can't afford,NA,NA
+USR1310,NA,Student not interested in domain,NA
+USR1315,NA,Wants offline classes,NA
+USR1316,Student not interested in domain,NA,NA
+USR1318,NA,Wants offline classes,NA
+USR1319,NA,Wants offline classes,NA
+USR1320,Wants offline classes,NA,NA
+USR1321,No time for student,NA,NA
+USR1322,Can't afford,NA,NA
+USR1323,No time for student,NA,NA
+USR1324,Can't afford,NA,NA
+USR1325,Can't afford,NA,NA
+USR1326,Wants offline classes,NA,NA
+USR1327,Can't afford,NA,NA
+USR1328,Can't afford,NA,NA
+USR1329,Can't afford,NA,NA
+USR1330,Student not interested in domain,NA,NA
+USR1331,Wants offline classes,NA,NA
+USR1332,Wants offline classes,NA,NA
+USR1333,No time for student,NA,NA
+USR1334,Wants offline classes,NA,NA
+USR1335,Wants offline classes,NA,NA
+USR1336,Can't afford,NA,NA
+USR1337,Student not interested in domain,NA,NA
+USR1338,Wants offline classes,NA,NA
+USR1339,Wants offline classes,NA,NA
+USR1340,Wants offline classes,NA,NA
+USR1341,Wants offline classes,NA,NA
+USR1342,Can't afford,NA,NA
+USR1343,NA,NA,Wants offline classes
+USR1344,Student not interested in domain,NA,NA
+USR1345,Wants offline classes,NA,NA
+USR1346,Wants offline classes,NA,NA
+USR1347,No time for student,NA,NA
+USR1348,NA,NA,Wants offline classes
+USR1349,Wants offline classes,NA,NA
+USR1350,Cannot afford,NA,NA
+USR1351,Cannot afford,NA,NA
+USR1352,Wants offline classes,NA,NA
+USR1353,Will join in final year,NA,NA
+USR1354,Will join in final year,NA,NA
+USR1355,Will join in final year,NA,NA
+USR1356,Cannot afford,NA,NA
+USR1357,Cannot afford,NA,NA
+USR1358,Wants offline classes,NA,NA
+USR1359,Will join in final year,NA,NA
+USR1360,Will join in final year,NA,NA
