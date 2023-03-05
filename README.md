@@ -30,7 +30,7 @@ In case any outlier is identified in the data set, note of them should be made a
 ## Data Resource
 
 Kaggle
-https://www.kaggle.com/datasets/nxtwaveda/data-analyst
+
 ## Tools Used
 
 1. SQL Workbench : 
