@@ -44,7 +44,7 @@ To present the insights along with the visuals
 ## Learnings from the Project
 
 1. Cleaning the data   
-i. Removed the irrelevant data or the outliers in the "watched_percentage" and "age" columns.
+i. Removed the irrelevant data in the "watched_percentage" and "age" columns.
 
 ii.Treated missing values in one of the the tables. 
 
